@@ -10,3 +10,6 @@ Hack Facebook Account Rondom Number Iraq
 - cd FbIQ-Clone
 - ls
 - python2 CloneFbxara.py
+
+UserName And Password                          
+Join My Telegram @xaraXviros
